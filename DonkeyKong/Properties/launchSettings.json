@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DonkeyKong": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
